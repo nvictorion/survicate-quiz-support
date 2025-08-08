@@ -10,4 +10,4 @@ Need help? Contact **v.n.s@outlook.fr**
 
 **Privacy Policy:** [/privacy](./privacy.md)  
 **Terms of Use:** [/terms](./terms.md)  
-**Delete account:** [/delete](./delete.md)
+**Account Deletion:** [/delete](./delete.md)
