@@ -9,5 +9,5 @@ Need help? Contact **v.n.s@outlook.fr**
 - **Delete my account / data**: email us and include the phone number you used to sign in.
 
 **Privacy Policy:** [/privacy](./privacy.md)  
-**Terms of Use:** [/terms](./terms.md)
+**Terms of Use:** [/terms](./terms.md)  
 **Delete account:** [/delete](./delete.md)
