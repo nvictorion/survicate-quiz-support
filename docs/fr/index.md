@@ -8,5 +8,5 @@ Besoin d’aide ? Contactez **v.n.s@outlook.fr**
 - **Notifications désactivées ?** Réglages iOS → Survicate Quiz → Notifications → Autoriser.
 - **Supprimer mon compte / mes données :** envoyez-nous un e-mail en indiquant le numéro utilisé pour vous connecter.
 
-**Politique de confidentialité :** [/privacy](./privacy-fr.md)  
-**Conditions d’utilisation :** [/terms](./terms-fr.md)
+**Politique de confidentialité :** [/privacy](./privacy.md)  
+**Conditions d’utilisation :** [/terms](./terms.md)
