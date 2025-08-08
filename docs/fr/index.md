@@ -9,4 +9,5 @@ Besoin d’aide ? Contactez **v.n.s@outlook.fr**
 - **Supprimer mon compte / mes données :** envoyez-nous un e-mail en indiquant le numéro utilisé pour vous connecter.
 
 **Politique de confidentialité :** [/privacy](./privacy.md)  
-**Conditions d’utilisation :** [/terms](./terms.md)
+**Conditions d’utilisation :** [/terms](./terms.md)  
+**Suppression du compte:** [/delete](./delete.md)
