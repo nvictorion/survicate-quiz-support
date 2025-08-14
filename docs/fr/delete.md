@@ -1,22 +1,21 @@
 # Survicate Quiz — Suppression de compte
 
-Pour supprimer votre compte **Survicate Quiz** et les données associées :
+Vous pouvez supprimer votre compte **Survicate Quiz** et les données associées à tout moment depuis l’application.
 
-**Comment faire la demande**
-Envoyez un e-mail à **v.n.s@outlook.fr** avec l’objet **« Suppression de mon compte Survicate Quiz »** et indiquez :
-- Le numéro de téléphone utilisé pour vous connecter (format international, ex. +33…)
+## Procédure (dans l’app)
+1. Connectez-vous avec votre numéro de téléphone ou sélectionnez **« Ou continuer sans compte (invité) »**  .  
+2. Appuyez sur l’**icône engrenage** (en haut à droite).  
+3. Sélectionnez **« Supprimer mon compte »**  et confirmez.
 
-
-**Données supprimées**
-- Compte Firebase Authentication (numéro de téléphone)
-- Données de jeu : équipes, scores et classements associés
+## Données supprimées
+- Votre compte Firebase Authentication (numéro de téléphone lié à l’app)  
+- Données de jeu : équipes/adhésions, scores et entrées de classement associées à votre compte  
 - Jetons de notifications push
 
-**Données éventuellement conservées temporairement**
-- Sauvegardes et journaux de sécurité pendant **30 jours** maximum (suppression automatique).
-- Statistiques agrégées/anonymisées (non identifiantes).
+## Conservation temporaire possible
+- Sauvegardes et journaux de sécurité pendant **30 jours** maximum, puis suppression définitive  
+- Statistiques agrégées et anonymisées (analytics/crash), non identifiantes
 
-**Vérification & délai**
-Nous pouvons vous demander de vérifier le numéro. La suppression sera traitée sous **30 jours**.
+## Besoin d’aide ?
+**E-mail :** v.n.s@outlook.fr
 
-**Assistance** : v.n.s@outlook.fr
