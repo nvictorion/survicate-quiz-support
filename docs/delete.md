@@ -1,21 +1,21 @@
 # Survicate Quiz — Account Deletion
 
-If you want to delete your **Survicate Quiz** account and associated data:
+You can delete your **Survicate Quiz** account and associated data at any time from within the app.
 
-**How to request**
-Email **v.n.s@outlook.fr** with the subject **“Delete my Survicate Quiz account”** and include:
-- Phone number used to sign in (international format, e.g., +33…)
+## How to delete (in the app)
+1. Sign in with your phone number or tap **“Ou coutinuer sans compte (invité)”** .  
+2. Tap the **gear icon** (top-right).  
+3. Select **“Delete my account”** (**“Supprimer mon compte”**) and confirm.
 
-**What will be deleted**
-- Firebase Authentication account (phone number)
-- Game data: teams, scores, and leaderboards associated with your account
-- Push notification tokens
+## What will be deleted
+- Your Firebase Authentication account (phone number linked to the app)  
+- Game data: teams/memberships, scores, and leaderboard entries associated with your account  
+- Push-notification tokens
 
-**What may be retained temporarily**
-- Backups and security logs for up to **30 days** (automatic rotation), then permanently deleted.
-- Aggregated, anonymized analytics or crash stats (non-identifiable).
+## What may be retained temporarily
+- Backups and security logs for up to **30 days**, then permanently deleted  
+- Aggregated, anonymized analytics or crash statistics (non-identifiable)
 
-**Verification & timing**
-We may ask you to verify the phone number. Your request will be processed within **30 days**.
+## Need help?
+**Email:** v.n.s@outlook.fr
 
-**Need help?** v.n.s@outlook.fr
